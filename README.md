@@ -16,3 +16,5 @@ Rest сервис справочник авто запчастей
   1. Пакет brand - марка автомобиля
   2. Пакет model - модель автомобиля
   3. Пакет spare - запчасть
+# API в Swagger
+  https://app.swaggerhub.com/apis/JavaRTKSchool/auto/1.0.0#/
